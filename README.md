@@ -37,7 +37,6 @@ I then explored different color spaces and different `skimage.hog()` parameters 
 
 Here is an example using HOG parameters of `orientations=9`, `pixels_per_cell=(8, 8)` and `cells_per_block=(8, 8)`:
 
-![alt text][image3]
 ![alt text][image4]
 
 #### 2. Explain how you settled on your final choice of HOG parameters.
